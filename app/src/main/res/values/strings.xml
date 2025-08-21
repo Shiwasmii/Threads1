@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Threads1</string>
+    <string name="hilo_ejemplo">Hilo Ejecutado </string>
+</resources>
